@@ -12,9 +12,6 @@ public class TestServiceImpl implements TestService {
     private TestMapper testMapper;
     @Override
     public String queryDate() {
-        int i=1;
-        int i1=1;
-        int i2=1;
         return this.testMapper.queryDate();
     }
 }
