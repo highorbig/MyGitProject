@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: cn.itcast:e3_common:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://C:/Program Files/feiq/Recv Files/00-e3mall-res/maven/repository/cn/itcast/e3_common/1.0-SNAPSHOT/e3_common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/taotao-common/e3_common-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://C:/Program Files/feiq/Recv Files/00-e3mall-res/maven/repository/cn/itcast/e3_common/1.0-SNAPSHOT/e3_common-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/taotao-common/e3_common-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://C:/Program Files/feiq/Recv Files/00-e3mall-res/maven/repository/cn/itcast/e3_common/1.0-SNAPSHOT/e3_common-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
