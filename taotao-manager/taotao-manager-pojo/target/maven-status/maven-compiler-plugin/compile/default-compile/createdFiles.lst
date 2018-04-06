@@ -1,0 +1,10 @@
+cn\itcast\pojo\OrderShipping.class
+cn\itcast\pojo\User.class
+cn\itcast\pojo\OrderItem.class
+cn\itcast\pojo\ItemCat.class
+cn\itcast\pojo\Item.class
+cn\itcast\pojo\BasePojo.class
+cn\itcast\pojo\ContentCategory.class
+cn\itcast\pojo\Order.class
+cn\itcast\pojo\ItemDesc.class
+cn\itcast\pojo\Content.class
