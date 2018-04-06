@@ -7,7 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b00469-1dc6-4e12-a725-2371627379e2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,6 +29,11 @@
     <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/" />
+    <ignored mask="*.iml" />
+    <ignored path=".idea/" />
+    <manually-removed-from-ignored>
+      <directory path="D:/taotao2/taotao/.idea/" />
+    </manually-removed-from-ignored>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +56,11 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ItemCatServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/ItemCatServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
+            <state relative-caret-position="342">
               <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,8 +72,8 @@
       <file leaf-file-name="TestServiceImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="228">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -275,7 +282,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,89 +294,14 @@
               <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
               <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,7 +313,7 @@
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.21198156" />
     <property name="SearchEverywhereHistoryKey" value="itemController&#9;FILE&#9;file://E:/学习记录/SSM项目/e3_parent/e3_manager/e3_manager_web/src/main/java/cn/itcast/controller/ItemController.java" />
-    <property name="last_opened_file_path" value="D:/taotao2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -639,6 +570,7 @@
       <workItem from="1523008025541" duration="512000" />
       <workItem from="1523008575541" duration="4631000" />
       <workItem from="1523016626277" duration="1807000" />
+      <workItem from="1523020158922" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="淘淘商城整合测试">
       <created>1523009444363</created>
@@ -661,11 +593,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523018301780</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge branch 'master' of ssh://192.168.37.161:22/home/git/taotao&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java">
+      <created>1523020236802</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523020236802</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57094000" />
+    <option name="totallyTimeSpent" value="57362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,7 +620,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40924656" sideWeight="0.19364598" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4760274" sideWeight="0.19818456" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5119863" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -696,11 +635,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40924656" sideWeight="0.806354" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5650685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4760274" sideWeight="0.80181545" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2632375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26701966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -786,7 +725,8 @@
     <MESSAGE value="淘淘商城整合测试" />
     <MESSAGE value="导入静态页面" />
     <MESSAGE value="更改方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改方法" />
+    <MESSAGE value="Merge branch 'master' of ssh://192.168.37.161:22/home/git/taotao&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of ssh://192.168.37.161:22/home/git/taotao&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -799,7 +739,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/e3_manager_web/src/main/webapp/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/e3_manager_web/pom.xml" />
     <entry file="file://$PROJECT_DIR$/e3_manager_web/src/main/resources/spring/springmvc.xml" />
     <entry file="file://$PROJECT_DIR$/e3_manager/pom.xml" />
@@ -918,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="22" column="91" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="105" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +1066,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/ItemCatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="342">
           <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1139,8 +1076,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/src/main/java/cn/itcast/service/impl/TestServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="228">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
