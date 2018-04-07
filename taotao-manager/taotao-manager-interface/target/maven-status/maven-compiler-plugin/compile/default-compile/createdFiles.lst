@@ -1,2 +1,3 @@
 cn\itcast\service\TestService.class
 cn\itcast\service\ItemCatService.class
+cn\itcast\base\BaseService.class

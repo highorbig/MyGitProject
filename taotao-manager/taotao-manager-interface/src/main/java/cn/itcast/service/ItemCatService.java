@@ -12,5 +12,5 @@ public interface ItemCatService {
      * @param rows
      * @return
      */
-    List<ItemCat> queryItemCatByPage(Integer page , Integer rows);
+    List<ItemCat> queryByPage(Integer page , Integer rows);
 }

@@ -21,8 +21,8 @@ public class ItemCatController {
 
     @RequestMapping("query/{pages}")
     @ResponseBody
-    public List<ItemCat> queryItemCatByPage(@PathVariable("pages") Integer page, @RequestParam("rows")Integer rows){
-        List<ItemCat> list = this.itemCatService.queryItemCatByPage(page, rows);
+    public List<ItemCat> queryItemCatByPage(@PathVariable("pages") Integer page, @RequestParam(value="rows",defaultValue = "5")Integer rows){
+        List<ItemCat> list = this.itemCatService.queryByPage(page, rows);
         return list;
     }
 }
