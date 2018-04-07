@@ -20,5 +20,7 @@
     <!-- 声明需要暴露的服务接口 -->
     <dubbo:service interface="cn.itcast.service.TestService" ref="testServiceImpl" />
     <dubbo:service interface="cn.itcast.service.ItemCatService" ref="itemCatServiceImpl"/>
+    <dubbo:service interface="cn.itcast.service.ItemDescService" ref="itemDescServiceImpl"/>
+    <dubbo:service interface="cn.itcast.service.ItemService" ref="itemServiceImpl"/>
 
 </beans>
