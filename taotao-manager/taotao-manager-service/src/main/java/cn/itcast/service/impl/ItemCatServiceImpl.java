@@ -11,6 +11,17 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 @Service
 public class ItemCatServiceImpl extends BaseServiceImpl<ItemCat> implements ItemCatService {
+    @Override
+    public List<ItemCat> queryItemCatByParentId(Long parentId) {
+        // 设置查询条件
+        ItemCat param = new ItemCat();
+        param.setParentId(parentId);
+
+        List<ItemCat> list = super.queryListByWhere(param);
+
+        return list;
+
+    }
 
 
 //    @Autowired

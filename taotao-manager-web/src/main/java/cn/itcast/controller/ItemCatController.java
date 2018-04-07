@@ -4,10 +4,7 @@ import cn.itcast.pojo.ItemCat;
 import cn.itcast.service.ItemCatService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -23,6 +20,18 @@ public class ItemCatController {
     @ResponseBody
     public List<ItemCat> queryItemCatByPage(@PathVariable("pages") Integer page, @RequestParam(value="rows",defaultValue = "5")Integer rows){
         List<ItemCat> list = this.itemCatService.queryByPage(page, rows);
+        return list;
+    }
+
+    /**
+     * 根据parentId查找类目
+     * @param parentId
+     * @return
+     */
+    @RequestMapping(method = RequestMethod.GET)
+    @ResponseBody
+    public List<ItemCat> queryItemCatByParentId(@RequestParam(value = "id",defaultValue = "0") Long parentId){
+        List<ItemCat> list=itemCatService.queryItemCatByParentId(parentId);
         return list;
     }
 }
