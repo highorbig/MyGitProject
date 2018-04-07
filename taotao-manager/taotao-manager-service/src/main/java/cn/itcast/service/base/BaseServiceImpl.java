@@ -1,6 +1,7 @@
 package cn.itcast.service.base;
 
 import cn.itcast.base.BaseService;
+import cn.itcast.pojo.BasePojo;
 import com.github.abel533.entity.Example;
 import com.github.abel533.mapper.Mapper;
 import com.github.pagehelper.PageHelper;
@@ -8,9 +9,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
+import java.util.Date;
 import java.util.List;
 
-public class BaseServiceImpl<T> implements BaseService<T> {
+public class BaseServiceImpl<T extends BasePojo> implements BaseService<T> {
 
     @Autowired
     private Mapper<T> mapper;
@@ -68,22 +70,44 @@ public class BaseServiceImpl<T> implements BaseService<T> {
 
     @Override
     public void save(T t) {
+        timeUpdate(t);
+
+
         this.mapper.insert(t);
 
     }
 
+    private void timeUpdate(T t) {
+        // 需要判断，如果调用者没有设置时间，则这里设置，如果设置了时间，则这里不设置了
+        if (t.getCreated() == null) {
+            t.setCreated(new Date());
+            t.setUpdated(t.getCreated());
+        } else if (t.getUpdated() == null) {
+            t.setUpdated(t.getCreated());
+        }
+    }
+
     @Override
     public void saveSelective(T t) {
+        // 需要判断，如果调用者没有设置时间，则这里设置，如果设置了时间，则这里不设置了
+        timeUpdate(t);
+
         this.mapper.insertSelective(t);
     }
 
     @Override
     public void updateById(T t) {
+        // 更新方法直接设置时间
+        t.setUpdated(new Date());
+
         this.mapper.updateByPrimaryKey(t);
     }
 
     @Override
     public void updateByIdSelective(T t) {
+        // 更新方法直接设置时间
+        t.setUpdated(new Date());
+
         this.mapper.updateByPrimaryKeySelective(t);
     }
 
