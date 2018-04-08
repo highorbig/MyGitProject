@@ -14,6 +14,9 @@
         <module>taotao-manager-web</module>
         <module>taotao-portal</module>
         <module>taotao-portal</module>
+        <module>taotao-portal</module>
+        <module>taotao-portal</module>
+        <module>taotaoportal</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>
