@@ -1,194 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65acdd85-e87c-46cb-8f96-3705b8ae4dfe" name="Default" comment="导入静态页面">
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/resources/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer-links.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/header.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/shortcut.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/cart.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/error/exception.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/error/my-exception.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/order-cart.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/register.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/success.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/pshow.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/taotao.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/18.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20111221C.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20120112B.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20120209D.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330A.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330A_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330B_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330C.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130415i.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130606B (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130606B.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130725.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/2013100701.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/2013100702.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/28.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/360_flash.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/360_video.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/537b084eN94336622.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/541f893aN662da9bc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/541fdd63Nab1b3c63.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/54238aaaN17189794.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/543b4d75N686689d7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/5440b1e4N8ff6d0fd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/5440b1e7N1ade375b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/5440ce68Na00d019e.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/544a11d3Na5a3d566.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/547e6a57N75c2f016.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/549d03d0N59b1f026.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/backpanel20140708.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg20110922.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg_hotsale.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg_prompt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg_thickbox.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/blank.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-again.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-bg-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-check-20140627.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-submit-new.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-submit.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/cart_corner_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/checkout-title.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/cicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/commstar.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/control-icon-20140521.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/cue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/error-3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/error-jd.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/error.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/floor-sort20131202.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/flow.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/footprint-arr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/hover-btn.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/icon48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/iconadd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/im20131028.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/index-jd-wx-qrcode.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/index.showcase.tg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/layer-credit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/loading-jd.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/login-all-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/logo-201305.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/m-buy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/more-slide.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/my_cart_title.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/myjd-bg2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/myjd-common-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/myjd-new-ico.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/newicon20140417.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/one4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/one5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/one6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/order-icon-20140811.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/p-btns-20140611.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/perfect_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/phone-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/promise20141021.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/purchase-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/pwdstrength.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/qr-code-sao.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/qr-code-sao02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rBEhV1I2yiUIAAAAAADKL7RWKf8AADQDQOQekkAAMpH341.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rBEhV1NXYLYIAAAAAADGO8-wV-UAAMfdgNi-BAAAMZT367.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rank-sh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rank2014.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/regist-btn.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/regist-word.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/share.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/step1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/step2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/sucess.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/swfupload.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/tab.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/taotao-logo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/thickbox_close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/tip-arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/tip-cue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/toggler-arrow.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/update.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/user_purchase.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/vip.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/virtuals-20140606.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/virtuals-cat-ico20140826.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/wait-btn.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/yzm.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/CommentStar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/base-2011.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/base-v1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/base.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/calendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/cart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/comment.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/home.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/iplocation_server.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/itemcat.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jTips.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery-1.2.6.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery-1.6.4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery-extend.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.checkout.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.cookie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.hashchange.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.price_format.2.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/json2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/lib-v1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/checkClient.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/g.base.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/jdEdit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/jdThickBox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/order.common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/order.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/order2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/payAndShipment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/product.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jd.lib.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdThickBox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdValidate.emReg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdValidate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdValidate.regSuccess.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/search_main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/lib-v1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jd.lib.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdThickBox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdValidate.emReg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdValidate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdValidate.regSuccess.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/taotao.js" />
+    <list default="true" id="65acdd85-e87c-46cb-8f96-3705b8ae4dfe" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/taotao-portal/src/main/java/cn/itcast/portal/controller/IndexController.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/pom.xml" afterPath="$PROJECT_DIR$/taotao-portal/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/taotao-portal/src/main/resources/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer-links.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/footer-links.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/footer.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/header.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/header.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/shortcut.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/shortcut.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/cart.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/cart.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/error/exception.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/error/exception.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/error/my-exception.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/error/my-exception.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/index.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/login.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/order-cart.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/order-cart.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/register.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/register.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/views/success.jsp" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/views/success.jsp" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/base.css" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/css/base.css" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/login.css" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/css/login.css" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/pshow.css" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/css/pshow.css" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/css/taotao.css" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/css/taotao.css" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/11.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/11.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/15.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/15.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/17.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/17.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/18.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/18.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20111221C.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20111221C.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20120112B.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20120112B.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20120209D.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20120209D.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330A.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130330A.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330A_2.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130330A_2.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330B_1.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130330B_1.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130330C.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130330C.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130415i.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130415i.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130606B (1).png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130606B (1).png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130606B.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130606B.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/20130725.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/20130725.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/2013100701.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/2013100701.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/2013100702.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/2013100702.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/22.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/22.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/28.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/28.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/360_flash.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/360_flash.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/360_video.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/360_video.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/537b084eN94336622.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/537b084eN94336622.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/541f893aN662da9bc.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/541f893aN662da9bc.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/541fdd63Nab1b3c63.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/541fdd63Nab1b3c63.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/54238aaaN17189794.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/54238aaaN17189794.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/543b4d75N686689d7.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/543b4d75N686689d7.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/5440b1e4N8ff6d0fd.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/5440b1e4N8ff6d0fd.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/5440b1e7N1ade375b.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/5440b1e7N1ade375b.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/5440ce68Na00d019e.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/5440ce68Na00d019e.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/544a11d3Na5a3d566.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/544a11d3Na5a3d566.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/547e6a57N75c2f016.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/547e6a57N75c2f016.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/549d03d0N59b1f026.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/549d03d0N59b1f026.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/8.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/8.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/backpanel20140708.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/backpanel20140708.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg20110922.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/bg20110922.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg_hotsale.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/bg_hotsale.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg_prompt.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/bg_prompt.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/bg_thickbox.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/bg_thickbox.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/blank.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/blank.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-again.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/btn-again.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-bg-1.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/btn-bg-1.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-check-20140627.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/btn-check-20140627.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-submit-new.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/btn-submit-new.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/btn-submit.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/btn-submit.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/cart_corner_1.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/cart_corner_1.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/checkout-title.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/checkout-title.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/cicon.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/cicon.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/commstar.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/commstar.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/control-icon-20140521.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/control-icon-20140521.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/cue.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/cue.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/1.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/10.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/10.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/11.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/11.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/12.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/12.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/13.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/13.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/14.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/14.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/15.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/15.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/16.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/16.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/2.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/3.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/4.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/5.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/5.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/6.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/6.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/7.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/7.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/8.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/8.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/defaultImgs/9.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/defaultImgs/9.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/error-3.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/error-3.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/error-jd.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/error-jd.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/error.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/error.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/floor-sort20131202.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/floor-sort20131202.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/flow.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/flow.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/footprint-arr.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/footprint-arr.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/hover-btn.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/hover-btn.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/icon48.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/icon48.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/iconadd.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/iconadd.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/im20131028.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/im20131028.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/index-jd-wx-qrcode.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/index-jd-wx-qrcode.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/index.showcase.tg.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/index.showcase.tg.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/layer-credit.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/layer-credit.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/loading-jd.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/loading-jd.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/loading.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/loading.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/login-all-bg.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/login-all-bg.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/logo-201305.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/logo-201305.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/m-buy.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/m-buy.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/more-slide.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/more-slide.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/my_cart_title.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/my_cart_title.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/myjd-bg2.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/myjd-bg2.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/myjd-common-icon.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/myjd-common-icon.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/myjd-new-ico.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/myjd-new-ico.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/newicon20140417.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/newicon20140417.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/one4.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/one4.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/one5.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/one5.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/one6.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/one6.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/order-icon-20140811.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/order-icon-20140811.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/p-btns-20140611.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/p-btns-20140611.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/perfect_bg.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/perfect_bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/phone-bg.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/phone-bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/promise20141021.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/promise20141021.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/purchase-icon.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/purchase-icon.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/pwdstrength.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/pwdstrength.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/qr-code-sao.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/qr-code-sao.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/qr-code-sao02.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/qr-code-sao02.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rBEhV1I2yiUIAAAAAADKL7RWKf8AADQDQOQekkAAMpH341.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/rBEhV1I2yiUIAAAAAADKL7RWKf8AADQDQOQekkAAMpH341.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rBEhV1NXYLYIAAAAAADGO8-wV-UAAMfdgNi-BAAAMZT367.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/rBEhV1NXYLYIAAAAAADGO8-wV-UAAMfdgNi-BAAAMZT367.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rank-sh.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/rank-sh.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/rank2014.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/rank2014.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/regist-btn.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/regist-btn.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/regist-word.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/regist-word.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/share.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/share.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/step1.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/step1.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/step2.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/step2.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/sucess.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/sucess.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/swfupload.swf" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/swfupload.swf" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/tab.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/tab.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/taotao-logo.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/taotao-logo.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/thickbox_close.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/thickbox_close.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/tip-arrow.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/tip-arrow.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/tip-cue.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/tip-cue.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/toggler-arrow.gif" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/toggler-arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/update.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/update.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/user_purchase.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/user_purchase.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/vip.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/vip.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/virtuals-20140606.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/virtuals-20140606.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/virtuals-cat-ico20140826.png" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/virtuals-cat-ico20140826.png" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/wait-btn.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/wait-btn.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/images/yzm.jpg" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/images/yzm.jpg" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/CommentStar.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/CommentStar.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/base-2011.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/base-2011.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/base-v1.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/base-v1.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/base.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/base.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/calendar.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/calendar.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/cart.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/cart.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/comment.json" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/comment.json" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/home.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/home.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/iplocation_server.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/iplocation_server.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/itemcat.json" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/itemcat.json" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jTips.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jTips.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery-1.2.6.min.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery-1.2.6.min.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery-1.6.4.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery-1.6.4.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery-extend.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery-extend.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.checkout.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery.checkout.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.cookie.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery.cookie.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.hashchange.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery.hashchange.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/jquery.price_format.2.0.min.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/jquery.price_format.2.0.min.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/json2.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/json2.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/lib-v1.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/lib-v1.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/checkClient.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/login/checkClient.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/g.base.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/login/g.base.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/jdEdit.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/login/jdEdit.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/jdThickBox.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/login/jdThickBox.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/login/login.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/login/login.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/order.common.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/order.common.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/order.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/order.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/order2.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/order2.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/payAndShipment.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/payAndShipment.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/product.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/product.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jd.lib.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/register/jd.lib.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdThickBox.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/register/jdThickBox.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdValidate.emReg.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/register/jdValidate.emReg.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdValidate.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/register/jdValidate.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/register/jdValidate.regSuccess.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/register/jdValidate.regSuccess.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/search_main.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/search_main.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/lib-v1.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/static/lib-v1.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jd.lib.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/static/register/jd.lib.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdThickBox.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/static/register/jdThickBox.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdValidate.emReg.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/static/register/jdValidate.emReg.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdValidate.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/static/register/jdValidate.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/static/register/jdValidate.regSuccess.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/static/register/jdValidate.regSuccess.js" />
+      <change beforePath="$PROJECT_DIR$/taotaoportal/src/main/webapp/js/taotao.js" afterPath="$PROJECT_DIR$/taotao-portal/src/main/webapp/js/taotao.js" />
     </list>
     <ignored path="$PROJECT_DIR$/taotao-manager/target/" />
     <ignored path="$PROJECT_DIR$/taotao-common/target/" />
@@ -211,51 +221,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CharacterEncodingFilter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/pom.xml">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="513">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/resources/spring/springmvc.xml">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="-19">
               <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/java/cn/itcast/portal/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/resources/log4j.properties">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -265,7 +292,7 @@
         </entry>
       </file>
       <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer.jsp">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1477">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -275,7 +302,7 @@
         </entry>
       </file>
       <file leaf-file-name="footer-links.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer-links.jsp">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/footer-links.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -285,7 +312,7 @@
         </entry>
       </file>
       <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/header.jsp">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -294,10 +321,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/shortcut.jsp">
+      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/shortcut.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-342">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -310,6 +337,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -326,11 +354,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springMVC.xml" />
-        <option value="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/taotao-portal/pom.xml" />
         <option value="$PROJECT_DIR$/taotaoportal/pom.xml" />
         <option value="$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/taotaoportal/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/taotaoportal/src/main/java/cn/itcast/portal/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -505,7 +535,7 @@
       <workItem from="1523112013067" duration="508000" />
       <workItem from="1523152201062" duration="1024000" />
       <workItem from="1523153304238" duration="736000" />
-      <workItem from="1523154466820" duration="351000" />
+      <workItem from="1523154466820" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="创建web项目">
       <created>1523112557010</created>
@@ -535,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523153977697</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="导入静态页面">
+      <created>1523154996274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523154996274</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3881000" />
+    <option name="totallyTimeSpent" value="5218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -551,10 +588,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5121029" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.022260275" sideWeight="0.11195159" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.48789713" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4469178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.48789713" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.022260275" sideWeight="0.8880484" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -601,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/pom.xml">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
         <state />
       </provider>
@@ -612,7 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
@@ -620,7 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/resources/spring/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
@@ -628,7 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -648,7 +685,7 @@
     <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml" />
     <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/index.jsp" />
     <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springMVC.xml" />
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml" />
     <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/index.jsp" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -660,34 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/taotaoportal/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -695,7 +705,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer.jsp">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1477">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -703,7 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/footer-links.jsp">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/footer-links.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -711,7 +721,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/header.jsp">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/header.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -719,10 +729,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotaoportal/src/main/webapp/WEB-INF/commons/shortcut.jsp">
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/commons/shortcut.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-342">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/java/cn/itcast/portal/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding />
         </state>
       </provider>
