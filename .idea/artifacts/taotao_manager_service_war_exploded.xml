@@ -13,6 +13,9 @@
           <element id="archive" name="taotao-manager-pojo-1.0-SNAPSHOT.jar">
             <element id="module-output" name="taotao-manager-pojo" />
           </element>
+          <element id="archive" name="taotao-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="taotao-common" />
+          </element>
           <element id="archive" name="taotao-manager-mapper-1.0-SNAPSHOT.jar">
             <element id="module-output" name="taotao-manager-mapper" />
           </element>
