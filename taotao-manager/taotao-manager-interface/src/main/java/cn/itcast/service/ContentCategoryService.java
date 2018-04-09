@@ -12,4 +12,18 @@ public interface ContentCategoryService extends BaseService<ContentCategory>{
      * @return
      */
     List<ContentCategory> queryContentCategoryByParntId(Long parentId);
+    /**
+     * 新增
+     * @param contentCategory
+     * @return
+     */
+    ContentCategory saveContentCategory(ContentCategory contentCategory);
+
+    /**
+     * 删除
+     * @param parentId
+     * @param id
+     */
+    void deleteContentCategoryById(Long parentId, Long id);
+
 }
