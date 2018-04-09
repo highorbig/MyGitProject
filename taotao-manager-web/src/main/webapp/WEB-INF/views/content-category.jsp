@@ -28,9 +28,14 @@ $(function(){
 		url : '/rest/content/category',
 		animate: true,
 		method : "GET",
+
+        //点击鼠标右键执行的逻辑
 		onContextMenu: function(e,node){
+		    //关闭windows默认右键菜单
             e.preventDefault();
+            //获取选中的节点
             $(this).tree('select',node.target);
+            //显示菜单
             $('#contentCategoryMenu').menu('show',{
                 left: e.pageX,
                 top: e.pageY
