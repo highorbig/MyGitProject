@@ -22,5 +22,7 @@
     <dubbo:service interface="cn.itcast.service.ItemCatService" ref="itemCatServiceImpl"/>
     <dubbo:service interface="cn.itcast.service.ItemDescService" ref="itemDescServiceImpl"/>
     <dubbo:service interface="cn.itcast.service.ItemService" ref="itemServiceImpl"/>
+    <dubbo:service interface="cn.itcast.service.ContentCategoryService" ref="contentCategoryServiceImpl"/>
+    <dubbo:service interface="cn.itcast.service.ContentService" ref="contentServiceImpl"/>
 
 </beans>

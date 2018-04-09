@@ -23,6 +23,8 @@
     <dubbo:reference interface="cn.itcast.service.ItemCatService" timeout="1000000" id="itemCatService"/>
     <dubbo:reference interface="cn.itcast.service.ItemService" timeout="1000000" id="itemService"/>
     <dubbo:reference interface="cn.itcast.service.ItemDescService" timeout="1000000" id="itemDescService"/>
+    <dubbo:reference interface="cn.itcast.service.ContentService" timeout="1000000" id="contentService"/>
+    <dubbo:reference interface="cn.itcast.service.ContentCategoryService" timeout="1000000" id="contentCategoryService"/>
 
 </beans>
 
