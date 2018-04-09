@@ -17,6 +17,12 @@
 
     <context:property-placeholder location="classpath:env.properties"/>
 
+    <!-- 配置文件上传解析器 -->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <!--文件大小效验-->
+        <property name="maxUploadSize" value="5000000"/>
+    </bean>
+
 
     <!-- 引用dubbo服务 -->
     <dubbo:application name="taotao-manager-web"/>
