@@ -1,10 +1,13 @@
 package cn.itcast.service.base;
 
 import cn.itcast.base.BaseService;
+import cn.itcast.common.TaoResult;
 import cn.itcast.pojo.BasePojo;
+import cn.itcast.pojo.Item;
 import com.github.abel533.entity.Example;
 import com.github.abel533.mapper.Mapper;
 import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.lang.reflect.ParameterizedType;
@@ -124,5 +127,20 @@ public class BaseServiceImpl<T extends BasePojo> implements BaseService<T> {
 
         this.mapper.deleteByExample(example);
 
+    }
+
+    @Override
+    public TaoResult<T> queryListByPage(T param, Integer page, Integer rows, String updated_desc) {
+        PageHelper.startPage(page,rows);
+        PageHelper.orderBy(updated_desc);
+        List<T> list = queryListByWhere(param);
+
+        // 获取分页的详细数据
+        PageInfo<T> pageInfo = new PageInfo<>(list);
+
+        TaoResult<T>taoResult=new TaoResult<>();
+        taoResult.setTotal(pageInfo.getTotal());
+        taoResult.setRows(list);
+        return taoResult;
     }
 }

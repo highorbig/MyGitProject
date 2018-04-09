@@ -1,5 +1,9 @@
 package cn.itcast.base;
 
+import cn.itcast.common.TaoResult;
+import cn.itcast.pojo.BasePojo;
+import cn.itcast.pojo.Content;
+
 import java.util.List;
 
 public interface BaseService<T> {
@@ -84,4 +88,14 @@ public interface BaseService<T> {
      * @param ids
      */
     public void deleteByIds(List<Object>ids);
+
+    /**
+     * 分页查询
+     * @param param
+     * @param page
+     * @param rows
+     * @param updated_desc
+     * @return
+     */
+    public TaoResult<T> queryListByPage(T param, Integer page, Integer rows, String updated_desc);
 }
